@@ -1,0 +1,7 @@
+.local/
+AGENTS.md
+__pycache__/
+*.pyc
+.env
+*.key
+*.pem
